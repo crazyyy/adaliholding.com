@@ -79,7 +79,7 @@
 }
 
 a.highslide-full-expand {
-  background: url(graphics/fullexpand.gif) no-repeat;
+  background: url(../img/fullexpand.gif) no-repeat;
   display: block;
   margin: 0 10px 10px 0;
   width: 34px;
@@ -97,7 +97,7 @@ a.highslide-full-expand {
   border: 1px solid white;
   background-color: white;
   padding-left: 22px;
-  background-image: url(graphics/loader.white.gif);
+  background-image: url(../img/loader.white.gif);
   background-repeat: no-repeat;
   background-position: 3px 1px;
 }
@@ -158,7 +158,7 @@ a.highslide-credits {
   width: 30px;
   height: 30px;
   cursor: pointer;
-  background: url(graphics/close.png);
+  background: url(../img/close.png);
 
   /* NOTE! For IE6, you also need to update the highslide-ie6.css file. */
 }
@@ -226,7 +226,7 @@ html > body .highslide-gallery ul {
 .highslide-controls {
   width: 195px;
   height: 40px;
-  background: url(graphics/controlbar-white.gif) 0 -90px no-repeat;
+  background: url(../img/controlbar-white.gif) 0 -90px no-repeat;
   margin: 20px 15px 10px 0;
 
   ul {
@@ -236,7 +236,7 @@ html > body .highslide-gallery ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    background: url(graphics/controlbar-white.gif) right -90px no-repeat;
+    background: url(../img/controlbar-white.gif) right -90px no-repeat;
   }
 
   li {
@@ -247,7 +247,7 @@ html > body .highslide-gallery ul {
   }
 
   a {
-    background-image: url(graphics/controlbar-white.gif);
+    background-image: url(../img/controlbar-white.gif);
     display: block;
     float: left;
     height: 30px;
@@ -410,7 +410,7 @@ html > body .highslide-gallery ul {
     margin-top: 5px;
     height: 11px;
     width: 11px;
-    background: url(graphics/resize.gif) no-repeat;
+    background: url(../img/resize.gif) no-repeat;
 
     span {
       display: none;
@@ -470,7 +470,7 @@ html > body .highslide-gallery ul {
         display: block;
         height: 16px;
         width: 16px;
-        background-image: url(graphics/closeX.png);
+        background-image: url(../img/closeX.png);
 
         &:hover {
           background-position: 0 16px;
@@ -614,10 +614,10 @@ html > body .highslide-gallery ul {
   }
 
   .highslide-controls {
-    background-image: url(graphics/controlbar-black-border.gif);
+    background-image: url(../img/controlbar-black-border.gif);
 
     ul, a {
-      background-image: url(graphics/controlbar-black-border.gif);
+      background-image: url(../img/controlbar-black-border.gif);
     }
   }
 }
@@ -644,7 +644,7 @@ html > body .highslide-gallery ul {
     cursor: default;
     padding: 0 0 0 22px;
     margin: 0;
-    background: url(graphics/icon.gif) no-repeat 0 1px;
+    background: url(../img/icon.gif) no-repeat 0 1px;
   }
 
   .highslide-controls {
@@ -667,7 +667,7 @@ html > body .highslide-gallery ul {
     }
 
     a {
-      background-image: url(graphics/controlbar-white-small.gif);
+      background-image: url(../img/controlbar-white-small.gif);
       height: 20px;
       width: 20px;
     }
@@ -768,7 +768,7 @@ html > body .highslide-gallery ul {
   }
 
   li {
-    background-image: url(graphics/controlbar-text-buttons.png);
+    background-image: url(../img/controlbar-text-buttons.png);
     background-position: right top !important;
     padding: 0;
     margin-left: 15px;
@@ -777,7 +777,7 @@ html > body .highslide-gallery ul {
   }
 
   a {
-    background: url(graphics/controlbar-text-buttons.png) no-repeat;
+    background: url(../img/controlbar-text-buttons.png) no-repeat;
     background-position: left top !important;
     position: relative;
     left: -10px;
@@ -787,7 +787,7 @@ html > body .highslide-gallery ul {
     text-decoration: none !important;
 
     span {
-      background: url(graphics/controlbar-text-buttons.png) no-repeat;
+      background: url(../img/controlbar-text-buttons.png) no-repeat;
       margin: 1px 2px 1px 10px;
       display: block;
       min-width: 4em;
@@ -957,7 +957,7 @@ html > body .highslide-gallery ul {
     div {
       margin-bottom: 10px;
       cursor: pointer;
-      background: url(graphics/scrollarrows.png) left center no-repeat;
+      background: url(../img/scrollarrows.png) left center no-repeat;
       height: 42px;
     }
   }
@@ -973,7 +973,7 @@ html > body .highslide-gallery ul {
     div {
       margin-bottom: 10px;
       cursor: pointer;
-      background: url(graphics/scrollarrows.png) center right no-repeat;
+      background: url(../img/scrollarrows.png) center right no-repeat;
       height: 42px;
     }
   }
@@ -1033,7 +1033,7 @@ html > body .highslide-gallery ul {
     div {
       margin-left: 10px;
       cursor: pointer;
-      background: url(graphics/scrollarrows.png) top center no-repeat;
+      background: url(../img/scrollarrows.png) top center no-repeat;
       height: 25px;
     }
   }
@@ -1049,7 +1049,7 @@ html > body .highslide-gallery ul {
     div {
       margin-left: 10px;
       cursor: pointer;
-      background: url(graphics/scrollarrows.png) bottom center no-repeat;
+      background: url(../img/scrollarrows.png) bottom center no-repeat;
       height: 25px;
     }
   }

@@ -49,7 +49,7 @@
 body {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: #fcfcfc url(../images/bg.png) top left repeat;
+  background: #fcfcfc url(../img/bg.png) top left repeat;
   font-family: Arial,Helvetica,sans-serif;
   font-weight: 300;
 }
@@ -229,7 +229,7 @@ body {
   padding: 5px 10px;
 
   a {
-    background-image: url("../images/haberler.png");
+    background-image: url("../img/haberler.png");
     padding-left: 30px;
     font-family: ProximaNovaRegular;
     font-size: 15px;
@@ -254,7 +254,7 @@ body {
       border-bottom: 1px dotted #888;
       color: #fff;
       font-family: ProximaNovaSemibold;
-      background-image: url("../images/menu_bg.jpg");
+      background-image: url("../img/menu_bg.jpg");
     }
 
     &:last-child > a {
@@ -318,14 +318,14 @@ body {
 
 .leftsidebar {
   border: 1px solid #CECECE;
-  background: #fcfcfc url(../images/content_bg.jpg) top left repeat;
+  background: #fcfcfc url(../img/content_bg.jpg) top left repeat;
   padding: 0 10px 10px;
   margin-bottom: 10px;
 }
 
 .rightsidebar {
   border: 1px solid #CECECE;
-  background: #fcfcfc url(../images/content_bg.jpg) top left repeat;
+  background: #fcfcfc url(../img/content_bg.jpg) top left repeat;
   padding: 0 10px;
   margin-bottom: 10px;
 }
@@ -441,7 +441,7 @@ body {
 
 .content-area-cms {
   border: 1px solid #CECECE;
-  background: #fcfcfc url(../images/content_bg.jpg) top left repeat;
+  background: #fcfcfc url(../img/content_bg.jpg) top left repeat;
   padding: 0 10px 10px;
   margin-bottom: 30px;
   color: inherit;
@@ -577,7 +577,7 @@ body {
   margin-left: 20px;
 
   a {
-    background-image: url("../images/side_buttonbg.png");
+    background-image: url("../img/side_buttonbg.png");
     font-family: "ProximaNovaSemiBold",Helvetica,Arial;
     color: #000;
     text-decoration: none;
@@ -675,10 +675,10 @@ a.list-group-item {
 }
 
 .next {
-  background: url(../images/next.png) no-repeat center;
+  background: url(../img/next.png) no-repeat center;
 
   &:hover {
-    background: url(../images/next-white.png) no-repeat center;
+    background: url(../img/next-white.png) no-repeat center;
   }
 }
 
