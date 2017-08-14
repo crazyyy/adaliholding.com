@@ -1,0 +1,1092 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nextIma",
+				"nextImageContainer"
+			],
+			[
+				"child",
+				"children\t.children()"
+			],
+			[
+				"activeIm",
+				"activeImageContainer"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"produc",
+				"productId"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"td",
+				"td:l\ttext-decoration:line-through"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"tex",
+				"textarea\t(main.scss)"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"preve",
+				"preventDefault()\trx.all.compat.js"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"loa",
+				"loader_gif.gif\tw:400 h:300"
+			],
+			[
+				"sele",
+				"selector"
+			],
+			[
+				"tt",
+				"tt-n\ttext-transform: none;"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"lisp-i\tlist-style-position: inside;"
+			],
+			[
+				"bgz",
+				"bgsz-ct\tbackground-size: contain;"
+			],
+			[
+				"ff",
+				"ff-a\tfont-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border",
+				"border-image: "
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs\ttransition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import\t@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms\t-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html/history.html",
+			"settings":
+			{
+				"buffer_size": 9611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"preti",
+				"HTMLPrettify"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"beau",
+				"SassBeautify"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/page-portfolio.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/loop-services.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/front-page.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/loop-product.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/js/scripts.js",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/import/_variables.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/header.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/functions.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/main.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/footer.php",
+		"/D/Works/Verstka/kdtricolor.ru/gulpfile.js",
+		"/D/Works/Verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/header.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/page-changer.php",
+		"/D/Works/Verstka/angrybirds24.ru/wordpress/wp-content/themes/wp-angrybirds/front-page.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/fonts/_font_pfbeausanspro.scss",
+		"/D/Works/Verstka/sad-lopatina.org.ua/wordpress/wp-content/themes/wp-gardi/footer.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/editor-style.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor-new/css/main.css",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/css/main.css",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/archive-product.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single-product.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single-services.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/wp-config.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/footer.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/style.css",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/single-product.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/archive-services.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/.htaccess 2",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/loop-services.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/.htaccess",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/main.css",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/index.php",
+		"/C/Users/Vitaly/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/header.php",
+		"/D/Works/Verstka/psiholog_polina/assets/img/bg/page-portfolio.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/loop.php",
+		"/D/Works/Verstka/shipcar24.com/assets/scss/main.scss",
+		"/D/Works/Verstka/angrybirds24.ru/wordpress/wp-content/themes/wp-angrybirds/footer.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-config.php",
+		"/D/Works/Verstka/rubanya.com/assets/scss/_colorbox.scss",
+		"/D/Works/Verstka/rubanya.com/assets/scss/_client.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/page-news.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-servicescat.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-services.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/archive-services.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/taxonomy-categories.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/archive-articles.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single-articles.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-articles.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-articlescat.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/archive-actions.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar-productcat.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single-actions.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-actions.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/sidebar-productcat.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar-product.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar-category.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/category.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar-page.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/page.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar-news.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/loop-product-cat.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/style.css",
+		"/D/Works/Verstka/wp-framework/wordpress/wp-content/themes/wp-framework/functions.php",
+		"/D/Works/Verstka/vtempe/page-news.php",
+		"/D/Works/Verstka/metalrolling/wordpress/wp-content/themes/wp-metalrolling/functions.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single-action.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/searchform.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/fonts/_font_helveticaneue.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/fonts/_font_ubuntu.scss",
+		"/D/Works/fonts-base/scss/_font_ubuntu.scss",
+		"/D/Works/Verstka/smartfootball.info/wordpress/wp-content/themes/twentyseventeen/functions.php",
+		"/D/Works/Ngoar/big_frank_2015024_urbanest_3/trunk/live/wp-content/themes/urbanest/partials/content-grid-newsletter.php",
+		"/D/Works/Ngoar/big_frank_2015024_urbanest_3/trunk/live/wp-content/themes/urbanest/single-urbanest_location.php",
+		"/D/Works/Verstka/smartfootball.info/wordpress/wp-config.php",
+		"/D/Works/Verstka/kdtricolor.ru/marks.txt",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/single.php",
+		"/D/Works/Verstka/ulaf/wordpress/wp-content/themes/wp-ulaf/header.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/sidebar.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/_mm-menu.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/_hamburgers.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/index.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/sxd/page-changer.php",
+		"/D/Works/Verstka/dhacaan/app.js",
+		"/D/Works/Verstka/kdtricolor.ru/assets/page-portfolio.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_owl.theme.default.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_owl.carousel.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_owl.theme.green.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_video.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_theme.green.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_theme.default.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_theme.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_lazyload.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_core.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_autoheight.scss",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/owl/_animate.scss",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/404.php",
+		"/D/Works/Verstka/kdtricolor.ru/wordpress/wp-content/themes/wp-kdtricolor/pagination.php",
+		"/D/Works/Verstka/kdtricolor.ru/assets/scss/_super_sprite.scss",
+		"/D/Works/Verstka/kdtricolor.ru/.npmignore",
+		"/D/Works/Verstka/kdtricolor.ru/.eslintignore",
+		"/D/Works/Verstka/kdtricolor.ru/.gitattributes",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/header.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page-contacts.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/footer.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/front-page.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/functions.php",
+		"/D/Works/Verstka/echo.co.uk/assets/js/scripts.js",
+		"/D/Works/Verstka/echo.co.uk/assets/scss/main.scss",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page-company.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page-clinicians.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page-careers.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page-why.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/single.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/category.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/search.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/searchform.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/404.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/page.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/index.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/pagination.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/loop.php",
+		"/D/Works/Verstka/echo.co.uk/assets/js/inline_4.js",
+		"/D/Works/Verstka/echo.co.uk/html/index.html",
+		"/D/Works/Verstka/echo.co.uk/html/page-why.php",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-content/themes/wp-echo/style.css",
+		"/D/Works/Verstka/dhacaan/README.md",
+		"/D/Works/Verstka/echo.co.uk/wordpress/wp-config.php",
+		"/D/Works/Verstka/echo.co.uk/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container-contactadress container-block-blue",
+			"header-adress",
+			"header-adress__list",
+			"header-adress",
+			".container-contactadress",
+			"product-img",
+			"SetSizeProductSizeOne",
+			"SetSizeProductSizeOne4",
+			"SetSizeProductSizeOne",
+			"looper-product--order",
+			"SetSizeProductSizeOne",
+			"product-img",
+			"500",
+			"font-family: '../fonts/",
+			"'PF",
+			"products-tabs--headline",
+			"short",
+			"do_",
+			"wp-login.php.",
+			"price",
+			".looper-product",
+			"changer-content--title",
+			".changer-content",
+			"max-height: 90%",
+			"normal-price",
+			"looper-product--price",
+			".cs",
+			"changer-block-filters--item",
+			"contactadress-img",
+			".looper-product",
+			".view-article",
+			".looper-product",
+			"prev-image",
+			".header-nav",
+			"modal-gallery",
+			"#eaf2f4",
+			".feature-img",
+			".js",
+			"zoom",
+			"article ",
+			"article",
+			".hentr",
+			"actucalnews",
+			"tradeind",
+			"tradeind row",
+			"ex",
+			".see-bottom ",
+			".cs",
+			"changer-block-filters--item",
+			"catego",
+			".product-img--single",
+			"container-tradeind",
+			"wpeHeadNav",
+			"mm-",
+			"modal-bg",
+			"input[name=your-phone]",
+			"modal-product-cat",
+			"looper-product--order",
+			"looper-product--buttons",
+			".css",
+			".looper",
+			"article ",
+			"article",
+			"action",
+			".changer-block",
+			".looper-product",
+			"inear-gradient",
+			"changer-content--item",
+			".changer-headline",
+			".price-normal",
+			"footer-widgets",
+			"looper-product--buttons",
+			".hamburger-box",
+			"99",
+			"header-cert",
+			"header",
+			"row-breadcrumb",
+			"font-weight: bold;",
+			"header-adress__second",
+			"Helvetica-bold-webfont",
+			"Helvetica-medium-webfont",
+			"Helvetica-medium-italic-webfont",
+			"Helvetica-regular-webfont",
+			"Helvetica-light-webfont",
+			"Ubuntu",
+			".looper",
+			"main-content",
+			".actucalnews-headline",
+			"    z-index: -1;",
+			"container-relisedgallery",
+			"container-connecter",
+			".css",
+			"data-tab",
+			".css",
+			".looper-product--bigmore",
+			"contactadress ",
+			".conta",
+			"exte",
+			"header-nav",
+			".looper",
+			"looper-product",
+			"abouthome",
+			"home-money",
+			"header",
+			"actucalnews",
+			"ader-nav').data('mmenu'",
+			".looper-product",
+			"categories",
+			"col-lg-",
+			"header",
+			"header-nav",
+			"col-md",
+			"url",
+			"modal-product",
+			"nav",
+			"widge",
+			"aside",
+			"&nbsp;",
+			".js",
+			"cx-header",
+			"cx-pagination",
+			"cx-head",
+			"type-navigation",
+			"cx-header__links",
+			"srcset\\s*=\\s*?(\"((\"\"|\\\\\"|[^\"<>])*?)\"|'((''|\\\\'|[^'<>])*?)'|[^\\s\"'>]*?)",
+			"footer",
+			"src=\"<?php echo get_template_directory_uri(); ?>/src=\"/",
+			"src=\"js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font-family: '",
+			"'../fonts/PF",
+			"font-weight: 500;",
+			"helveticaneue-cyr-heavy-webfont",
+			"helveticaneue-cyr-bold-webfont",
+			"helveticaneue-cyr-roman-webfont",
+			"helveticaneue-cyr-light-webfont",
+			"Helvetica",
+			"col-lg",
+			"col-xl",
+			" ",
+			"",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/js",
+			"src=\"<?php echo get_template_directory_uri(); ?>/src=\"",
+			"  ",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"br",
+			"border-radius: $bdrs;",
+			"\t\t    <div class=\"item\">\n\t\t\t\t<p>Море - прямо с балкона!!! Рядом теннистные корты, катались на велосипедах. Каждый номер - под рок-группу! Классная ненапрягающая рок-музыка! Всем рекомендую! </p>\n\t\t\t\t<p class=\"user-name\">Iryna<span class=\"user-from user-from-bel\">Беларусь</span></p>\n\t\t    </div>",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/js/",
+			"src=\"https://",
+			"/img/main/half_shares.png",
+			"font-family: Arial, sans-serif;",
+			"font-family: Verdana, Geneva, sans-serif;",
+			"",
+			"290",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"295",
+			"img/model",
+			"//",
+			"href=\"#\"",
+			"68",
+			" .tab-header li",
+			"72",
+			"<?php echo get_template_directory_uri(); ?>/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"font-family: 'PT Sans', sans-serif;",
+			"href=\"#\"",
+			"100",
+			"950",
+			"fonts",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"phpshop/templates/saitobaza/img",
+			"carousell-inner",
+			"carousell-item",
+			"120",
+			"1200",
+			"rgba(253, 238, 186, 0.25)",
+			"#FDEEBA",
+			"</a>",
+			"<a href=\"\">\\1<aasa>",
+			"<a href=\"\">/1<a\\/>",
+			").png",
+			")png",
+			"png\" ",
+			"timthumb",
+			" ",
+			"h3",
+			"../img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"img",
+			"img/",
+			"font-family: 'Open Sans', sans-serif;",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/photos",
+			"current-menu-item",
+			"",
+			"img",
+			"70",
+			"1000",
+			"<li>",
+			"showposts=12",
+			"page-template-page-jobs-php",
+			"http://mihas86.myjino.ru/wp-content/themes/wp-onetoone/img/",
+			"http://mihas86.myjino.ru/",
+			"140",
+			"1000",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"url('../img",
+			"url('img/",
+			"href=\"#\"",
+			"src=\"img",
+			"img",
+			"relative",
+			"  behavior: url(http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE/PIE.htc);",
+			"section",
+			"/PIE.htc",
+			"http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE.htc",
+			".section-main",
+			"400",
+			"515",
+			"115",
+			"175",
+			"href=\"#\"",
+			"320",
+			"<span class=\"article-info\"><span class=\"date\">10:26  23.02.2014</span>  Интервью  Богдан Тимин</span>",
+			"<h2><a href=\"\">Что случилось с Михаилом Рокфеллером</a></h2>",
+			"180",
+			"1000",
+			"253",
+			"MyriadProBoldCondensed",
+			"1000",
+			"",
+			"wpeasy",
+			"c"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html/history.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Phoenix (SL).tmTheme",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "adaliholding.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Working\\develop\\verstka\\hotels24-blog\\hotels24-blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

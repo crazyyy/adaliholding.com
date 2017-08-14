@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)http://www.adaliholding.com/ -->
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>ADALI HOLDING</title>
+  <meta name="keywords" content="adali, adalı holding, inşaat taahhüt, serka inşaat, adalı hazır beton">
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Sabah Web Dizayn www.sabahwebdizayn.com">
+  <meta name="robots" content="index, follow">
+  <link rel="shortcut icon" href="http://www.adaliholding.com/images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="http://www.adaliholding.com/images/favicon.ico" type="image/x-icon">
+  <!-- CSS Kütüphaneleri
+    ================================================== -->
+  <!-- Bootstrap ve FontAwesome CSS -->
+  <link href="./index_files/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="./index_files/font-awesome.min.css">
+  <!-- Özel CSS -->
+  <link href="./index_files/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="haberler" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title" id="myModalLabel"></h4>
+        </div>
+        <div class="modal-body">
+          <div id="sonuc"></div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <header class="navbar navbar-inverse navbar-static-top" role="banner">
+    <div class="container">
+      <div class="navbar-header">
+        <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a href="http://www.adaliholding.com/default.asp" class="navbar-brand hidden-xs hidden-sm hidden-md"><img src="./index_files/a_logo.jpg" alt="logo"></a>
+        <a href="http://www.adaliholding.com/default.asp" class="navbar-brand hidden-lg">Adalı Holding</a>
+      </div>
+      <nav class="collapse navbar-collapse" role="navigation">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="http://www.adaliholding.com/default.asp">MAIN PAGE</a>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.adaliholding.com/#">ABOUT US<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li>
+                <a href="http://www.adaliholding.com/Cms.asp?ID=24">HISTORY </a>
+              </li>
+              <li>
+                <a href="http://www.adaliholding.com/Cms.asp?ID=25">OUR MISSION </a>
+              </li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="http://www.adaliholding.com/#">SECTORS<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="dropdown-submenu">
+                <a href="http://www.adaliholding.com/#">CONTRACTING &amp; CONSTRUCTION </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=28">CONSTRUCTION</a></li>
+                  <li><a href="http://www.adaliholding.com/projeler.asp">SELECTED PROJECTS</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=26">MACHINERY LIST</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=50">PROJECT LIST</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="http://www.adaliholding.com/Cms.asp?ID=27">LIFE SUPPORT &amp; CAMP SERVICES </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=30">LABOR FORCE SERVICES</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=44">FUEL DISTRIBUTION SERVICES</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=45">HEAVY EQUIPMENT</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=46">WASTE MANAGEMENT</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=31">FOOD SERVICES</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=48">LOGİSTİCS</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=51">MAINTENANCE &amp; REPAIRS</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="http://www.adaliholding.com/#">INDUSTRY AND TRADE GROUP </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=43">AGGREGATE &amp; SAND PRODUCTION</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="http://www.adaliholding.com/Cms.asp?ID=54">ENERGY </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=34">HEPP INVESTMENTS</a></li>
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=35">WPP INVESTMENTS</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="http://www.adaliholding.com/#">TOURISM &amp; REAL ESTATE </a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://www.adaliholding.com/Cms.asp?ID=37">CITY HOTELS INVESTMENT</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="http://www.adaliholding.com/Cms.asp?ID=29">READY-MIX CONCRETE PRODUCTION </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="http://www.adaliholding.com/quality-certificates.asp">QUALITY CERTIFICATES</a>
+          </li>
+          <li>
+            <a href="http://www.adaliholding.com/contact.asp">CONTACT</a>
+          </li>
+          <li>
+            <a href="http://www.adaliholding.com/Cms.asp?ID=39">SOCIAL RESPONSIBILITY</a>
+          </li>
+          <li>
+            <a href="http://www.adaliholding.com/dil-degistir.asp?I=tr"><img alt="Brand" src="./index_files/TRButton.jpg"></a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="container">
+    <div class="slayt-alani">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        </ol>
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item active">
+            <img src="./index_files/img_insaat.jpg" width="100%" alt="slide">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>SERKA CONTRACTING</h3>
+              <p>Our Contracting Group operates as a general contractor both in Turkey and abroad and carries out large scale infrastructure works, construction of industrial plants, airports, hotels, military constructions, and etc..</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="./index_files/img_enerji.jpg" width="100%" alt="ENERGY">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>ENERGY</h3>
+              <p>Adali Holding shows its best efforts to realize its Energy projects in the Black Sea, Eastern Anatolia, Southeast Anatolia, Western Thrace and Aegean Regions in order to reach a target of 300 MW installed power capacity all from renewable energy resources of wind and hydro.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="./index_files/img_sanayi.jpg" width="100%" alt="READY-MIX CONCRETE PRODUCTION">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>READY-MIX CONCRETE PRODUCTION</h3>
+              <p>The wide distribution fleet of SERKA is a big asset to deliver the concrete produced at 18 batch plants to the construction sites in the shortest time by protecting its quality.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="./index_files/img_turizm.jpg" width="100%" alt="TOURISM">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>TOURISM</h3>
+              <p>Adali Holding A.S. begin aware of the tourism potential in Turkey and observing the insufficieny of the 5 star hotel capacity in Adana,started operating in tourism sector in 2007 by establishing SERKA Turizm A.S. The hotel project, to be constructed on the bought.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="./index_files/img_gmy.jpg" width="100%" alt="REALTY INVESTMENTS">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>REALTY INVESTMENTS</h3>
+              <p>Adali Holding A.S. begin aware of the tourism potential in Turkey and observing the insufficieny of the 5 star hotel capacity in Adana,started operating in tourism sector in 2007 by establishing SERKA Turizm A.S. The hotel project, to be constructed on the bought.</p>
+            </div>
+          </div>
+          <div class="item">
+            <img src="./index_files/img_foodservice.jpg" width="100%" alt="LIFE SUPPORT &amp; CAMP SERVICES">
+            <div class="carousel-caption hidden-xs hidden-sm hidden-md">
+              <h3>LIFE SUPPORT &amp; CAMP SERVICES</h3>
+              <p>With our five logistics centers in Istanbul,Turkey; Adana,Turkey; Iraq we successfully purchased and delivered more than 20.000 pieces of goods/materials from office equipment to machine parts and from cleaning agents to vehicles, in one year.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content-area">
+      <div class="row">
+        <div class="col-md-8">
+          <div class="leftsidebar">
+            <h2>GROUP OVERVIEW</h2>
+            <p style="text-align:justify">Adalı Holding is one of the top-tier Turkish conglomerates with a track record of 50 years in business. The group diversifies in EPC Construction, Life Support Services and Facility Management, Energy and Tourism. Adalı Holding is recognized for upstanding business ethics and timely delivery of high quality work to its customers.</p>
+            <p style="text-align:justify">Adalı orchestrates its worldwide operations from its global headquarters situated in Istanbul and the operational main offices located in Ankara and USA. Our site operations are performed throughout the satellite and regional offices in Turkey, Iraq, Afghanistan, Kyrgyzstan, Azerbaijan, Niger, Sierra Leone, Germany and USA.</p>
+            <p style="text-align:justify">Our Group capitalizes on construction and services as the core business segment and has been providing full contingency support to US Military and Coalition forces in austere and hostile environments for design-build construction, life support and facility management services.</p>
+            <p style="text-align:justify">Our uninterrupted, decades long working relationship with US Government Agencies make us one of the top sought US Government Contractors.</p>
+            <p style="text-align:justify">We are investing heavily in the energy infrastructure of Turkey by blending a mix of renewable sources such as hydro, wind and geothermal energy. We are aiming to attain a capacity of 300 MW established power by the end of 2016.</p>
+            <p style="text-align:justify">Another leg of our investment is tourism and hospitality. Recently, we have opened a 5 star hotel in Adana, which is built by our construction group with state-of-the art architecture. This landmark hotel is being operated by our Group under Sheraton brand. Another 5 star brand hotel located in a unique spot in the heart of Istanbul is under construction stage.</p>
+            <p style="text-align:justify">Adalı Holding has a robust financial structure and recognized credibility among local and global financial houses including banks, investment banks and surety institutions. Our group has 250 million US$ in revenue with its assets reaching to half a billion US$. We have sufficient bonding capacity for future development projects.</p>
+            <p style="text-align:justify">Adalı leadership is totally committed to extending best value services in a timely manner to its customers as a uniquely positioned global partner in every field.</p>
+            <p style="text-align:justify">We believe in our people; we believe that talented minds, capable hands and dedicated hearts elevate an organization. Therefore we will grow with our people. Keeping principles, ethics and code of business conduct on top of everything, we will strive harder to expand our territories, enlarge our work volume and enhance our position in the present locations.</p>
+            <p style="text-align:justify">We will move forward with every step we take…</p>
+            <p style="text-align:justify">&nbsp;</p>
+            <div id="map"></div>
+          </div>
+          <div class="leftsidebar">
+            <h2>GENERAL CONTRACTING SERVICES</h2>
+            <p style="text-align:justify">Adalı Holding renders General Contracting Services of international standards with a range of equipment, facilities &amp; experienced professional staff. We attach priority to seamless project implementation, expert quality, work safety and timely project completion in all of our operations, with integrity and high ethical standards that define our business operations. We offer services tailored to customers’ needs and requirements that meet and exceed expectations, within project budgets.</p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="rightsidebar">
+            <a href="http://www.adaliholding.com/projeler.asp"><img src="./index_files/sprojects.png" style="width:100%;margin-top:10px"></a>
+            <h2> NEWS </h2>
+            <div class="haberler">
+              <ul>
+                <li>
+                  <h3>Serka Taahhüt will build up a new container terminal at Port of Duqm, Sultanate of OMAN.</h3>
+                </li>
+                <li>
+                  <h3>Serka Taahhüt is awarded a new contract by SEZAD for the construction of second phase of the drainage systems for Duqm Refinery area.</h3>
+                </li>
+                <li>
+                  <h3>After the successful completion of the first CHU idiq contract (2011 – 2016), we have recently been awarded the new CHU idiq contract (2016 – 2021) by OBO, Department of State.</h3>
+                </li>
+                <li>
+                  <h3>Serka Taahhüt is producing the physical security elements for USACE at İncirlik through it’s recent contract.</h3>
+                </li>
+                <li>
+                  <h3>A Motor Pool Building will be renovated by Serka Taahhüt in Balgat-Ankara for USACE.</h3>
+                </li>
+              </ul>
+              <!-- <p class="tumhaberler"><a href="TumHaberler.asp">All News</a></p>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer-ust">
+    <div class="container">
+      <div class="footer-area">
+        <div class="row">
+          <div class="col-md-4">
+            <p>ADALI HOLDİNG</p>
+          </div>
+          <div class="col-md-6 hidden-xs hidden-sm hidden-md">
+            <p><span>All rights reserved. © 2015 Adalı Holding</span></p>
+          </div>
+          <div class="col-md-2 hidden-xs hidden-sm hidden-md">
+            <img src="./index_files/footer-logo.jpg" alt="logo">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer">
+    <div class="container">
+      <div class="bottom-area">
+        <section class="footer-info">
+          <ul>
+            <li><a href="http://www.adaliholding.com/default.asp">MAIN PAGE</a></li>
+            <li><a href="http://www.adaliholding.com/Cms.asp?ID=23">ABOUT US</a></li>
+            <li><a href="http://www.adaliholding.com/quality-certificates.asp">QUALITY CERTIFICATES</a></li>
+            <li><a href="http://www.adaliholding.com/contact.asp">CONTACT</a></li>
+            <li><a href="https://e-sirket.mkk.com.tr/esir/Dashboard.jsp#/sirketbilgileri/11586">e-COMPANY MKK</a></li>
+          </ul>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div class="hidden-xs hidden-sm hidden-md" id="toTop">^ Go to Top</div>
+  <!-- JavaScript Kütüphaneleri
+    ================================================== -->
+  <script src="./index_files/jquery.js.завантаження"></script>
+  <script src="./index_files/bootstrap.min.js.завантаження"></script>
+  <script type="text/javascript">
+  $(function() {
+    $(window).scroll(function() {
+      if ($(this).scrollTop() != 0) {
+        $('#toTop').fadeIn();
+      } else {
+        $('#toTop').fadeOut();
+      }
+    });
+
+    $('#toTop').click(function() {
+      $('body,html').animate({
+        scrollTop: 0
+      }, 800);
+    });
+  });
+  </script>
+  <script type="text/javascript" src="./index_files/raphael.js.завантаження"></script>
+  <script type="text/javascript" src="./index_files/jquery.mousewheel.js.завантаження"></script>
+  <script type="text/javascript" src="./index_files/mapsvg.js.завантаження"></script>
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <script type="text/javascript">
+  $('#map').mapSvg({
+    source: 'maps/world_high.svg',
+    colors: {
+      base: '#cccccc',
+      stroke: '#aaaaaa',
+      selected: 10
+    },
+    tooltipsMode: 'combined',
+    zoom: true,
+    pan: true,
+    responsive: true,
+    zoomLimit: [0, 100],
+    loadingText: 'Loading map...',
+
+    regions: {
+      USA: {
+        tooltip: '<strong>ABD</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Germany: {
+        tooltip: '<strong>Germany</strong>',
+        attr: {
+          fill: '#3c404f'
+        },
+      },
+      Macedonia: {
+        tooltip: '<strong>Macedonia</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Turkey: {
+        tooltip: '<strong>Turkey</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Georgia: {
+        tooltip: '<strong>Georgia </strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Iraq: {
+        tooltip: '<strong>Iraq</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+
+      Niger: {
+        tooltip: '<strong>Niger</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Kyrgyzstan: {
+        tooltip: '<strong>Kyrgyzstan</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Afganistan: {
+        tooltip: '<strong>Afghanistan</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Oman: {
+        tooltip: '<strong>Oman</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+
+      Azerbaijan: {
+        tooltip: '<strong>Azerbaijan</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+
+      United_Arab_Emirates: {
+        tooltip: '<strong>United Arab Emirates</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Sierra_Leone: {
+        tooltip: '<strong>Sierra Leone</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Quatar: {
+        tooltip: '<strong>Quatar</strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      },
+      Georgia: {
+        tooltip: '<strong>Georgia </strong>',
+        attr: {
+          fill: '#3c404f'
+        }
+      }
+    }
+  });
+  </script>
+  <div class="corner-ribbon top-right sticky grey shadow hidden-xs hidden-sm hidden-md"><a href="http://www.adaliholding.com/Uploads/Adali_Brochure.pdf">ADALI BROCHURE</a></div>
+</body>
+
+</html>
